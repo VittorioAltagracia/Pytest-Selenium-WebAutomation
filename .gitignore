@@ -1,0 +1,6 @@
+.vscode
+assets
+__pycache__
+geckodriver.log
+test_report.html
+.pytest_cache
